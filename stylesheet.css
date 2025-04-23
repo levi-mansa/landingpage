@@ -419,7 +419,7 @@ html {
   }
   
   .w-form-fail {
-    background-color: #ffdede;
+    background-color: none;
     margin-top: 10px;
     padding: 10px;
     display: none;
