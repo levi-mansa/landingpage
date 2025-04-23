@@ -413,6 +413,7 @@ html {
   
   .w-form-done {
     text-align: center;
+    background-color: none;
     padding: 20px;
     display: none;
   }
